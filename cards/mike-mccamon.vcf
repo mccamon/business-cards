@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 13.0.1//EN
+N:McCamon;Mike;;;
+FN:Mike McCamon
+ORG:NFC Forum;
+EMAIL;type=INTERNET;type=WORK;type=pref:mccamon@nfc-forum.org
+TEL;type=CELL;type=VOICE;type=pref:+1.913.940.2737
+TEL;type=WORK;type=VOICE:+1.781.876.6253
+ADR;type=WORK;type=pref:;;401 Edgwater Place\, Suite 600;Wakefield;MA;01880;USA
+item1.URL;type=pref:https://nfc-forum.org
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
