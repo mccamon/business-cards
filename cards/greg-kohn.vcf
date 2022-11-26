@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 13.0.1//EN
+N:Kohn;Greg;;;
+FN:Greg Kohn
+ORG:Virtual;
+TITLE:Chief Growth Officer
+EMAIL;type=INTERNET;type=pref:gkohn@virtualinc.com
+TEL;type=WORK;type=VOICE;type=pref:+1 (781) 876-6275
+TEL;type=CELL;type=VOICE:+1-732-823-2077
+ADR;type=WORK;type=pref:;;401 Edgewater\, #600;Wakefield;MA;01880;
+END:VCARD
